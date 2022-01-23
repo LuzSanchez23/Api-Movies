@@ -1,0 +1,25 @@
+body {
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.container {
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+    color: rgb(235, 22, 128);
+   
+}
+h1 {
+    font-size: 60px;
+    -webkit-text-stroke: 2px white; 
+}
+.row {
+   font-size: 18px;
+   color: white;
+  
+}
+img {
+    border: 3px solid white;
+}
